@@ -17,4 +17,3 @@ T﻿he aim was to create a simple front-end heavy web-application to create and 
 ![Preview of To-Do list application](/src/assets/img/image_2025-06-15_143828261.png "To-Do preview")
 
 A﻿s can be clearly seen, styling was not part of the main focus-points for this assignment.
-
