@@ -6,7 +6,7 @@ summary: Simple To-Do list application created for a University course.
 tags:
   - post project university assignment
 ---
-T﻿his project was created for a front-end development course this semester. GitHub repo: [![GitHub logo](/src/assets/img/github-mark.svg)](https://github.com/tammmatTLU/1tunnitoo)
+T﻿his project was created for a front-end development course this semester. GitHub repo: <https://github.com/tammmatTLU/1tunnitoo>
 
 ## T﻿ask
 
