@@ -1,6 +1,6 @@
 {
   "title": "Portfolio",
-  "image": "",
+  "image": "/src/assets/img/portfolio-bag-svgrepo-com.svg",
   "image_alt": "",
   "body": "This is a super simple portfolio made using a template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/). This portfolio was created as part of a course in Tallinn University by first-year Computer Science major [Mattias Tamm](https://portfolio-mattias.netlify.app/about/)."
 }
