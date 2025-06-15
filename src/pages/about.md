@@ -15,3 +15,7 @@ H﻿ello, I am Mattias Tamm, a first-year Computer Science student at Tallinn Un
 ## T﻿his portfolio
 
 T﻿his portfolio is created using Netlify and the Fernfolio Eleventy template and is filled with information pertaining to my work and experiences in web and software development. There isn't much to display as of yet but it is something.
+
+## M﻿y skills
+
+I﻿ have experience writing in vanilla JavaScript, TypeScript, React, regular CSS, Tailwind CSS and Python. I also have had to use a bit of PHP (the Symfony framework to be exact), which I'm not entirely experienced with. I also know my way around vanilla SQL and have used different ORM's in place of vanilla SQL.
